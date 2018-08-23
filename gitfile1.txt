@@ -1,1 +1,1 @@
-print("welcome to Git, Manasa")
+welcome to Git, Manasa
