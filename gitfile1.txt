@@ -1,1 +1,2 @@
 Welcome to Git, Manasa
+this is adding a sentence to the file
