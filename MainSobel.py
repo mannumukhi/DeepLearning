@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import time
-image = cv2.imread('Image3.jpg',0)
+image = cv2.imread('./input_images/Image2.jpg',0)
 F1 = np.array([[-1, 0, 1], [-2, 0, 2], [-1, 0, 1]], dtype = np.float)
 F2 = np.array([[-1, -2, -1], [0, 0, 0], [1, 2, 1]], dtype = np.float)
 print("Img size:",image.shape)
